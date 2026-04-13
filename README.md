@@ -8,7 +8,7 @@
 </div>
 <div align="center">
      <a href="/cs.html" target="_blank">
-    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-e74c3c?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
+    <img src="https://img.shields.io/badge/Compte%20secondaire-ikitsue-FF0000?style=for-the-badge&logo=github&logoColor=white" alt="Compte secondaire"/>
   </a>
 </div>
 
